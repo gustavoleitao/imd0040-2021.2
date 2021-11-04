@@ -24,7 +24,7 @@ public class Principal {
         var soma = 10 + 39;
         var subtracao = 78 -76;
         var multiplicacao = 8 * 7;
-        var divisao = 3 /6;
+        var divisao = 3 / 6;
         var resto = 9 % 2;
 
         // Operadores de comparação
@@ -38,7 +38,7 @@ public class Principal {
 
         // Operadores Lógicos
 
-        var r7 = (20 > 4) && (67 <8); // AND lógico
+        var r7 = (20 > 4) && (67 < 8); // AND lógico
         var r8 = (20 > 4) || (67 <8); // OR lógico
 
         // Operadores bit a bit
