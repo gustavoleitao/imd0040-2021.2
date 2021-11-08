@@ -15,7 +15,7 @@ public class Outra {
         String a = new String();
         String b = "oi";
 
-        System.out.println(a == b);ter
+        System.out.println(a == b);
         System.out.println(a.equals(b));
 
     }
