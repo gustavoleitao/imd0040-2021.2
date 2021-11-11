@@ -19,9 +19,6 @@ public class Keyboard {
             System.out.println(input);
         }
 
-
-
-
     }
 
 }
