@@ -4,7 +4,7 @@ public class Sub extends Super {
 
     final static double PI_AO_QUADRADO = Math.PI * Math.PI;
 
-    int euQueroIrDormir;
+    private int euQueroIrDormir;
 
     public Sub(int result){
         super(result);
