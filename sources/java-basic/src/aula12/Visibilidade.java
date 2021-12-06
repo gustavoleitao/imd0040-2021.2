@@ -1,6 +1,6 @@
 package aula12;
 
-public class Teste {
+public class Visibilidade {
 
     public String publico;
     protected String protegido;
