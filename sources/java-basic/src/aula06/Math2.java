@@ -8,11 +8,7 @@ public class Math2 {
         algo = "texto";
     }
 
-    public void transformar(){
-        if (algo.equals("isso")){
 
-        }
-    }
 
     public static void main(String[] args) {
 
